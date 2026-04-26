@@ -117,7 +117,7 @@ python Glaucoma_RETfound.py
 
 ## 👤 Author
 
-Your Name
+Rushil Saxena
 M.Tech Data Science
 
 ---
