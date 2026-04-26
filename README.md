@@ -37,10 +37,8 @@ The system is designed to:
 
 ```
 Glaucoma-RETFound/
-│── Glaucoma_RETfound.ipynb
-│── Glaucoma_RETfound_fixed.py
+│── Glaucoma_RETfound.py
 │── requirements.txt
-│── .gitignore
 │── README.md
 ```
 
